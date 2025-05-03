@@ -1,6 +1,6 @@
 # 📈 Libra – AI-Powered Stock Prediction & Visualization Platform
 
-![Banner](https://your-custom-image-or-banner-link.com)
+
 
 **Libra** is an end-to-end, full-stack web application that enables users to:
 - Visualize **real-time and historical stock prices**
